@@ -1,3 +1,9 @@
-readme
+branch -> name
+checkout -> name
+// code
 
-Lisez-moi  cxrfx fr xh
+commit -> push
+
+checkout -> main
+
+branch merge <- name
